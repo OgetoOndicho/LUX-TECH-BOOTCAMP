@@ -1,5 +1,5 @@
 # LUX-TECH-BOOTCAMP
-## Introduction to SQL 101
+## Week 1: Introduction to SQL
 
  You are provided with a table called Sales, which contains the following columns:
 - SaleID: A unique ID for each sale.
