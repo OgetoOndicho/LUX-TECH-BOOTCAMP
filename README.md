@@ -1,5 +1,5 @@
 # LUX-TECH-BOOTCAMP
-###Introduction to SQL 101
+#Introduction to SQL 101
 #### Given a table called Sales,which contain
  ou are provided with a table called Sales, which contains the following columns:
 
