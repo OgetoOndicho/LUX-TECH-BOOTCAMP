@@ -16,4 +16,4 @@
 
 ### PROJECT LINK TO JUPYTERNTEBOOK
 - Having used Kaggle Notebook for weather data analysis, here is the link to the entire project
-   https://github.com/OgetoOndicho/LUX-TECH-BOOTCAMP/blob/main/lux-tech-capstone-project.ipynb
+   https://www.kaggle.com/code/datascientistogeto/lux-tech-capstone-project
