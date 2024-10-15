@@ -13,3 +13,7 @@
 ### PROJECT OVERVIEW
 - The data was first mined from the api, stored in csv format and then loaded onto Python
 - Jupyternote book was mainly used as the Ideal Development Environment (IDE) for data cleaning, analysis and plotting.
+
+### PROJECT LINK TO JUPYTERNTEBOOK
+- Having used Kaggle Notebook for weather data analysis, here is the link to the entire project
+   https://github.com/OgetoOndicho/LUX-TECH-BOOTCAMP/blob/main/lux-tech-capstone-project.ipynb
